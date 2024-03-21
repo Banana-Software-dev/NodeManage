@@ -1,0 +1,18 @@
+{
+  "name": "nodemanage",
+  "version": "0.0.0",
+  "description": "Open-source self-hosted Node.JS managing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Banana Software",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "command-line-args": "^5.2.1",
+    "console-table-printer": "^2.12.0",
+    "ora": "^8.0.1"
+  }
+}
